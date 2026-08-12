@@ -45,20 +45,26 @@ graph TD
     Engine -->|Session Terminated| Analytics[Post-Session Analytics Pipeline]
     Analytics -->|Structured Lead & Intent Data| CRM[CRM / ERP Ingestion Ready]
 ```
-Metric / Dimension,Standard Baseline Setup,Production Pipeline Architecture
-Data Freshness,Manual / Static Batch Indexing,Automated 3-Hour Dynamic Sync
-Inference Efficiency,High Latency / Heavy Parameters,Sub-Second Execution via Gemini 2.5 Flash
-Context Hygiene,Risk of Inventory Hallucinations,Zero Stock/Price Hallucinations
-Data Pipeline Value,Unstructured Raw Chat Logs,Structured Post-Session Lead Analytics
+## 🔬 Engineering Metrics & Benchmarks
+
+| Metric / Dimension | Standard Baseline Setup | Production Pipeline Architecture |
+| :--- | :--- | :--- |
+| **Data Freshness** | Manual / Static Batch Indexing | **Automated 3-Hour Dynamic Sync** |
+| **Inference Efficiency** | High Latency / Heavy Parameters | **Sub-Second Execution via Gemini 2.5 Flash** |
+| **Context Hygiene** | Risk of Inventory Hallucinations | **Zero Stock/Price Hallucinations** |
+| **Data Pipeline Value** | Unstructured Raw Chat Logs | **Structured Post-Session Lead Analytics** |
+
 ---
-🛠️ Tech Stack & Dependencies
-Language: Python 3.10+
 
-LLM Core: Gemini 2.5 Flash
+## 🛠️ Tech Stack & Dependencies
 
-Vector Architecture: Dynamic Ingestion & Indexing Pipeline
+* **Language:** Python 3.10+
+* **LLM Core:** Gemini 2.5 Flash
+* **Vector Architecture:** Dynamic Ingestion & Indexing Pipeline
+* **Integration Layer:** Asynchronous Event Hooks & REST Data Connectors
 
-Integration Layer: Asynchronous Event Hooks & REST Data Connectors
 ---
-👥 Technical Attribution
-Engineered in a technical team alongside Mahdi Nateghi and Mohammad Bahrami.
+
+## 👥 Technical Attribution
+
+Engineered in a technical team alongside **Mahdi Nateghi** and **Mohammad Bahrami**.
