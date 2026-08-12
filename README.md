@@ -65,6 +65,12 @@ graph TD
 
 ---
 
-## 👥 Technical Attribution
+## 👥 Technical Attribution & Engineering Team
 
-Engineered in a technical team alongside **Mahdi Nateghi** and **Mohammad Bahrami**.
+This system was co-architected and engineered in a collaborative technical team:
+
+| Engineer | Primary Focus | GitHub Profile |
+| :--- | :--- | :--- |
+| **Abolfazl Afkhami** | Core RAG Architecture & Inference Optimization | [@Abolfazl27Aflhami88](https://github.com/Abolfazl27Aflhami88) |
+| **Mahdi Nateghi** | Pipeline Integration & System Engineering | [@Ti1Mh](https://github.com/Ti1Mh) |
+| **Mohammad Bahrami** | Backend Infrastructure & Data Synchronization | [@mbahramii](https://github.com/mbahramii) |
