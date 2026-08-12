@@ -71,6 +71,6 @@ This system was co-architected and engineered in a collaborative technical team:
 
 | Engineer | Primary Focus | GitHub Profile |
 | :--- | :--- | :--- |
-| **Abolfazl Afkhami** | Core RAG Architecture & Inference Optimization | [@Abolfazl-Aflhami](https://github.com/Abolfazl-Aflhami) |
+| **Abolfazl Afkhami** | Core RAG Architecture & Inference Optimization | [@Abolfazl-Aflhami](https://github.com/Abolfazl-Afkhami) |
 | **Mahdi Nateghi** | Pipeline Integration & System Engineering | [@Ti1Mh](https://github.com/Ti1Mh) |
 | **Mohammad Bahrami** | Backend Infrastructure & Data Synchronization | [@mbahramii](https://github.com/mbahramii) |
